@@ -19,6 +19,9 @@ Open Source: AI Tele-Note is an open-source project, welcoming contributions fro
 With AI Tele-Note, we aim to revolutionize the way users take and manage notes, offering a seamless, intuitive, and visually engaging platform that adapts to the dynamic needs of today's digital users.
 
 
+![328031459-2aa78caf-11d3-4846-968c-6813de042ec7](https://github.com/harshi-thakur/ai-notes/assets/164986517/4b69b7e8-ac5a-4c4f-babe-f331db20a5a5)
 
+![s1](https://github.com/harshi-thakur/ai-notes/assets/164986517/975a9082-2dd9-4458-b646-3127e98f13bd)
 
+![s1](https://github.com/harshi-thakur/ai-notes/assets/164986517/2076accc-a005-4731-a17e-1387890a6bd4)
 
